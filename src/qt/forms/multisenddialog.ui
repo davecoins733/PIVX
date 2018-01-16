@@ -10,7 +10,7 @@
     <x>0</x>
     <y>0</y>
     <width>594</width>
-    <height>523</height>
+    <height>526</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -188,7 +188,7 @@ MultiSend will not be activated unless you have clicked Activate</string>
           </size>
          </property>
          <property name="text">
-          <string>Label</string>
+          <string>Label:</string>
          </property>
         </widget>
        </item>
